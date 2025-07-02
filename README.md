@@ -12,7 +12,7 @@ prediction.ipynb - a Jupyter notebook that contains the code to predict Bitcoin 
 sentiment.ipynb - a Jupyter notebook that creates our wikipedia edit dataset.
 
 Data
-Computing the Wikipedia edit data takes time. It can be faster to use the version that's already been generated. It's in this repository, and called wikipedia_edits.csv. Feel free to download and use the file. You can also get it from here.
+Computing the Wikipedia edit data takes time. It can be faster to use the version that's already been generated. It's in this repository, and called wikipedia_edits.csv.
 
 We'll be downloading the Bitcoin price data using the yfinance package as part of the project.
 
